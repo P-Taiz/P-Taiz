@@ -13,8 +13,5 @@ I'm Phan Tan Tai, student in the Dept. of Computer Science and Engineer, SEOULTE
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=P-Taiz&icon=0&color=0)](https://visitcount.itsvg.in)
